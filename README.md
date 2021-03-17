@@ -7,7 +7,7 @@ We make Eyetracking kiosk mu-ya-ho
 에디터에 한글을 사용하기 위함 sudo apt-get install fcitx-hangul im-config -n fcitx  
 git 사용법  
 설치 sudo apt install git-all  
-저장소 복제 git clone https://github.com/zungun/PoseCure.git  
+저장소 복제 git clone https://github.com/PNUIOTLAB/Eyetracking.git
 branch 생성 git checkout -b <branch 이름>  
 스테이징 영역에 추가 add git add .  
 로컬 저장소에 커밋 commit 아래 명령어 순서대로 실행  
