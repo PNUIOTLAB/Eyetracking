@@ -15,4 +15,5 @@ git config --global user.name "NAME" //NAME에 원하는 이름
 git config --global user.email "EMAIl" //EMAIL에 유효한 이메일 주소  
 git commit -m "message" //message에는 원하는 메세지 입력  
 리모트 저장소에 푸시 push git push origin //ex) git push origin zungun  
-master branch에서 pull git pull origin master  
+main branch에서 로컬 리모트 저장소로 가져오기 git pull origin main  
+
